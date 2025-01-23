@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../02simpleGame"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c",
+			"AS.C": "cpp",
+			"ebentoak.h": "c",
+			"graphics.h": "c",
+			"imagen.h": "c",
+			"soinua.h": "c",
+			"text.h": "c"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "Golf_Jokoa"
+	}
+	
+}
