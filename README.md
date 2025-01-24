@@ -1,0 +1,1 @@
+Inañio eta garbimundua mario bross jokoan inspiratutako plataforma jokoa da non basura jaso ondoren briziklatu egin behar den. GARRANTZTSUA: jokoak funtzionatzeko "img" karpeta debug karpetan sartu. Audio karpeta dagoen tokian.
